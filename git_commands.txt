@@ -1,0 +1,30 @@
+git init 
+git configure --global user.name "shubham"
+git config --global user.email "shubhammishra4227@gmail.com"
+git add 
+git rm -cached filename
+git commit -m "message"
+git remote add origin https://
+git remote set-url origin https://pattoken@github.com/reponame
+git remote -v 
+git push origin master
+git pull origin master
+git branch dev
+git switch/checkout dev 
+git switch master
+git checkout -b test
+git push origin test
+git pull origin test
+git fetch 
+git remote -a
+git switch newbranch
+git log
+git diff
+git show commitid
+git revert commitid
+inngithub create pull requeest to merge 
+after merging you can pull to origin using git pull orign branchname
+git hook in .git/hook/pre-commit
+git hook prwvents commit if there is error in code 
+there are different type sofg hooks availabel for different languages like flake8 for python and many more
+
