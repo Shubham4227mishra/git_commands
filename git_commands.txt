@@ -20,6 +20,7 @@ git remote -a
 git switch newbranch
 git log
 git diff
+git branch 
 git show commitid
 git revert commitid
 in github create pull requeest to merge 
